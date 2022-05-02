@@ -3,6 +3,16 @@
 
 # Feedback Widget
 
+--- 
+
+
+## Requísitos
+
+- Node JS;
+
+
+
+---
 
 ## Tecnologias utilizadas (até o momento)
 
@@ -11,3 +21,23 @@
 - TailwindCSS;
 - Headless UI (Acessibilidade);
 - Vite;
+
+--- 
+
+## Como ver o projeto funcionar na sua máquina
+
+### Clone o repositório
+`git clone https://github.com/Ivan-Vidal/nlw-return.git`
+
+### Entre no diretorio
+`cd web`
+
+### Download dependências
+`npm install`
+
+### Rode o Servidor
+`npm run dev`
+
+### Está Pronto, Abra seu navegador favorito e navegue até `https://localhost:3000/`
+
+
