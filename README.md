@@ -1,23 +1,29 @@
-<div style="center">
+<div align="center">
 
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-<img alt="License" src="https://img.shields.io/static/v1?label=NLW&message=Return&color=8257E5&labelColor=000000">
+<img alt="NLW Return" src="https://img.shields.io/static/v1?label=NLW&message=Return&color=8257E5&labelColor=000000">
 
 </div>
+
 # Feedback Widget
 
---- 
+## 📖Sobre
+
+Projeto desenvolvido entre os dias `02/05/2022 até 06/05/2022` com a [Rocketseat](https://www.rocketseat.com.br/) no [NLW Return](https://nextlevelweek.com/cronograma/8) evento prático e gratuito para devs.
+
+---
 
 
-## Requísitos
+## 🚧 Requísitos
 
-- Node JS;
+- [Git](https://git-scm.com/);
+- [NodeJS](https://nodejs.org/en/);
 
 
 
 ---
 
-## Tecnologias utilizadas (até o momento)
+## 🚀 Tecnologias utilizadas (até o momento)
 
 - React;
 - TypeScript;
@@ -27,7 +33,7 @@
 
 --- 
 
-## Como ver o projeto funcionar na sua máquina
+##  ⌨  Como rodar na sua máquina
 
 ### Clone o repositório
 `git clone https://github.com/Ivan-Vidal/nlw-return.git`
@@ -44,3 +50,10 @@
 ### Está Pronto, Abra seu navegador favorito e navegue até `https://localhost:3000/`
 
 
+---
+
+## :memo: Licença 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
+Desenvolvido com 💜
