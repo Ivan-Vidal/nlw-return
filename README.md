@@ -26,11 +26,12 @@ O projeto é uma aplicação que pode ser usada em qualquer site ou App mobile, 
 
 ## 🚀 Tecnologias utilizadas (até o momento)
 
-- React;
+- React JS;
 - TypeScript;
 - TailwindCSS;
 - Headless UI (Acessibilidade);
-- Vite;
+- Vite JS;
+- Node JS;
 
 --- 
 
