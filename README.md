@@ -1,8 +1,7 @@
 <div align="center">
-
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-<img alt="NLW Return" src="https://img.shields.io/static/v1?label=NLW&message=Return&color=8257E5&labelColor=000000">
-
+  <a href="#memo-licença">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+  </a>
 </div>
 
 # Feedback Widget
@@ -10,6 +9,8 @@
 ## 📖Sobre
 
 Projeto desenvolvido entre os dias `02/05/2022 até 06/05/2022` com a [Rocketseat](https://www.rocketseat.com.br/) no [NLW Return](https://nextlevelweek.com/cronograma/8) evento prático e gratuito para devs.
+
+O projeto é uma aplicação que pode ser usada em qualquer site ou App mobile, para possibilitar o feedback do usuário.
 
 ---
 
@@ -56,4 +57,4 @@ Projeto desenvolvido entre os dias `02/05/2022 até 06/05/2022` com a [Rocketsea
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Desenvolvido com 💜
+### Desenvolvido com 💜
